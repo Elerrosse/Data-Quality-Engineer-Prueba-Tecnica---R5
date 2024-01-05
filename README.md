@@ -52,7 +52,7 @@ ordered_df = df[cols]: Reordena las columnas en el orden especificado.
 
 ordered_df.to_csv(csv_filename, index=False): Escribe el DataFrame a un archivo CSV con el nombre especificado, excluyendo el índice.
 
-###En resumen, este código:
+### En resumen, este código:
 
 Carga y estructura los datos de Spotify para los álbumes de Taylor Swift desde un archivo JSON.
 Aplana los datos anidados para facilitar el análisis en formato tabular.
