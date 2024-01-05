@@ -1,5 +1,5 @@
 # Data-Quality-Engineer-Prueba-Tecnica---R5
-Repositorio de entregables de prueba tecnica para aspirar al cargo de  Data Quality Engineer en R5
+Repositorio de entregables de prueba tecnica de Henry Cardenas para aspirar al cargo de  Data Quality Engineer en R5
 
 Contiene los siguientes archivos
 
