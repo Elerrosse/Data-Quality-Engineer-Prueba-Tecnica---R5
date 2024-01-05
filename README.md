@@ -12,10 +12,11 @@ Contiene los siguientes archivos
 
 codigo de python con:
 
-1. Importando librerías:
+### 1. Importando librerías:
 
 import pandas as pd: Importa la librería Pandas para manipular y analizar datos.
 import json: Importa la librería JSON para trabajar con datos en formato JSON.
+
 2. Especificando archivos:
 
 json_file = "/content/taylor_swift_spotify.json": Asigna la ruta al archivo JSON que contiene los datos de Spotify de Taylor Swift.
