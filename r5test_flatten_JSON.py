@@ -4,7 +4,7 @@ import json
 
 # definir la ruta de acceso al archivo json y el nombre del csv a crear
 json_file = "taylor_swift_spotify.json"
-csv_filename = "data.csv"
+csv_filename = "taylor_swift_spotify_flattened.csv"
 
 # cargar los datos del JSON
 with open(json_file) as f:
