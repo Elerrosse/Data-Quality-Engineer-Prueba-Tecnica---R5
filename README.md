@@ -62,9 +62,9 @@ Organiza los datos para mayor claridad y consistencia.
 Crea un archivo CSV bien formateado para un análisis posterior.
 ## taylor_swift_spotify_flattened.csv
     CSV producto del script anterior y que es usado como insumo para el reporte de calidad de datos
-## R5test2.ipynb
+## R5test2-reporte de calidad de datos.ipynb
     notebook con el reporte de calidad de datos del dataset, incluyendo el código que muestra como se encontraron las 
     anomalías de calidad de datos en formato ipynb.
-## R5test2.pdf
+## R5test2-reporte de calidad de datos.pdf
     notebook con el reporte de calidad de datos del dataset, incluyendo el código que muestra como se encontraron las 
     anomalías de calidad de datos en formato pdf.
