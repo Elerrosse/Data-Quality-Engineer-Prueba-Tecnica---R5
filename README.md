@@ -7,7 +7,8 @@ Contiene los siguientes archivos
     pdf con los requerimientos presentados en la prueba tecnica.
 ## taylor_swift_spotify.json
     JSON con la informacion de taylor swift obtenida a traves de la API de spotify
-
+## requierements.txt
+    archivo de requerimientos para correr los scripts usados en el reporte (pandas)
 ## r5test_flatten_JSON.py
 
 codigo de python con la siguiente estructura y proposito:
