@@ -59,3 +59,8 @@ Aplana los datos anidados para facilitar el análisis en formato tabular.
 Combina información de diferentes niveles de la estructura JSON.
 Organiza los datos para mayor claridad y consistencia.
 Crea un archivo CSV bien formateado para un análisis posterior.
+
+## R5test2.ipynb
+    notebook con el reporte de calidad de datos del dataset, incluyendo el código que muestra como se encontraron las anomalías de calidad de datos en formato ipynb.
+## R5test2.pdf
+    notebook con el reporte de calidad de datos del dataset, incluyendo el código que muestra como se encontraron las anomalías de calidad de datos en formato pdf.
