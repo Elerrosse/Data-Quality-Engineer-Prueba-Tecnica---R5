@@ -8,7 +8,7 @@ Contiene los siguientes archivos
 ## taylor_swift_spotify.json
     JSON con la informacion de taylor swift obtenida a traves de la API de spotify
 ## requierements.txt
-    archivo de requerimientos para correr los scripts usados en el reporte (pandas)
+    archivo de requerimientos para correr los scripts usados en el reporte (pandas -- 2.8.1)
 ## r5test_flatten_JSON.py
 
 codigo de python con la siguiente estructura y proposito:
